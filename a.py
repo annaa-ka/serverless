@@ -5,7 +5,7 @@ import sys
 if __name__ == "__main__":
 
     if len(sys.argv) <= 1:
-        print("You need ti provide action")
+        print("You need to provide action")
         exit(0)
 
     url = 'https://d5dmu46v9e4bggfs7n4a.apigw.yandexcloud.net/?'
